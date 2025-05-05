@@ -1,0 +1,1 @@
+If a thread panics while holding a lock, Rust marks the lock as "poisoned."
