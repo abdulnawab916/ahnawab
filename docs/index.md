@@ -1,11 +1,3 @@
-# Obsidian Notes
+# Abdul's Notes
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+A compilation of my notes that I have written throughout my undergraduate career at UC Davis.
